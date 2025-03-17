@@ -1,0 +1,7 @@
+C:\Users\hu51023\Documents\SharpDevelop Projects\Carpethia\Carpethia\bin\Release\Carpethia.exe
+C:\Users\hu51023\Documents\SharpDevelop Projects\Carpethia\Carpethia\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\hu51023\Documents\SharpDevelop Projects\Carpethia\Carpethia\obj\x86\Release\Carpethia.MainForm.resources
+C:\Users\hu51023\Documents\SharpDevelop Projects\Carpethia\Carpethia\obj\x86\Release\Carpethia.View.resources
+C:\Users\hu51023\Documents\SharpDevelop Projects\Carpethia\Carpethia\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\hu51023\Documents\SharpDevelop Projects\Carpethia\Carpethia\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\hu51023\Documents\SharpDevelop Projects\Carpethia\Carpethia\obj\x86\Release\Carpethia.exe

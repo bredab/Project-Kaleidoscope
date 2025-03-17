@@ -1,0 +1,82 @@
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.1\Carpethia\bin\Debug\Kaleidoscope.exe
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.1\Carpethia\bin\Debug\Kaleidoscope.pdb
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.1\Carpethia\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.1\Carpethia\obj\x86\Debug\Carpethia.MainForm.resources
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.1\Carpethia\obj\x86\Debug\Carpethia.View.resources
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.1\Carpethia\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.1\Carpethia\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.1\Carpethia\obj\x86\Debug\Kaleidoscope.exe
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.1\Carpethia\obj\x86\Debug\Kaleidoscope.pdb
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.2 dev\Carpethia\bin\Debug\Kaleidoscope v0.2.exe
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.2 dev\Carpethia\bin\Debug\Kaleidoscope v0.2.pdb
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.2 dev\Carpethia\bin\Debug\hu\Kaleidoscope v0.2.resources.dll
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Kaleidoscope.vbprojResolveAssemblyReference.cache
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Carpethia.CircleShapeToolbox.resources
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Carpethia.CircleWaveToolbox.resources
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Carpethia.PolygonShapeToolbox.resources
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Carpethia.MainForm.resources
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Carpethia.Toolbox1.resources
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Carpethia.View.resources
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Carpethia.CircleShapeToolbox.hu.resources
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Carpethia.CircleWaveToolbox.hu.resources
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Carpethia.MainForm.hu.resources
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Carpethia.Toolbox1.hu.resources
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Kaleidoscope.vbproj.GenerateResource.Cache
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\hu\Kaleidoscope v0.2.resources.dll
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Kaleidoscope v0.2.exe
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Kaleidoscope v0.2.pdb
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Carpethia.Grid1ToolBox.resources
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Carpethia.Grid1ToolBox.hu.resources
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Carpethia.Grid2ToolBox.resources
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Carpethia.Grid2ToolBox.hu.resources
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Carpethia.Grid3ToolBox.resources
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Carpethia.Grid3ToolBox.hu.resources
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Carpethia.FlowerShapeToolbox.resources
+G:\Blaster\Documents\Visual Studio 2013\Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Kaleidoscope.vbprojResolveAssemblyReference.cache
+G:\Blaster\Documents\Visual Studio 2013\Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Carpethia.CircleShapeToolbox.resources
+G:\Blaster\Documents\Visual Studio 2013\Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Carpethia.CircleWaveToolbox.resources
+G:\Blaster\Documents\Visual Studio 2013\Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Carpethia.FlowerShapeToolbox.resources
+G:\Blaster\Documents\Visual Studio 2013\Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Carpethia.Grid1ToolBox.resources
+G:\Blaster\Documents\Visual Studio 2013\Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Carpethia.Grid2ToolBox.resources
+G:\Blaster\Documents\Visual Studio 2013\Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Carpethia.Grid3ToolBox.resources
+G:\Blaster\Documents\Visual Studio 2013\Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Carpethia.PolygonShapeToolbox.resources
+G:\Blaster\Documents\Visual Studio 2013\Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Carpethia.MainForm.resources
+G:\Blaster\Documents\Visual Studio 2013\Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Carpethia.Toolbox1.resources
+G:\Blaster\Documents\Visual Studio 2013\Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Carpethia.View.resources
+G:\Blaster\Documents\Visual Studio 2013\Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Carpethia.CircleShapeToolbox.hu.resources
+G:\Blaster\Documents\Visual Studio 2013\Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Carpethia.CircleWaveToolbox.hu.resources
+G:\Blaster\Documents\Visual Studio 2013\Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Carpethia.Grid1ToolBox.hu.resources
+G:\Blaster\Documents\Visual Studio 2013\Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Carpethia.Grid2ToolBox.hu.resources
+G:\Blaster\Documents\Visual Studio 2013\Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Carpethia.Grid3ToolBox.hu.resources
+G:\Blaster\Documents\Visual Studio 2013\Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Carpethia.MainForm.hu.resources
+G:\Blaster\Documents\Visual Studio 2013\Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Carpethia.Toolbox1.hu.resources
+G:\Blaster\Documents\Visual Studio 2013\Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Kaleidoscope.vbproj.GenerateResource.Cache
+G:\Blaster\Documents\Visual Studio 2013\Projects\Kaleidoscope v0.2 dev\Carpethia\bin\Debug\Kaleidoscope v0.2.1.exe
+G:\Blaster\Documents\Visual Studio 2013\Projects\Kaleidoscope v0.2 dev\Carpethia\bin\Debug\Kaleidoscope v0.2.1.pdb
+G:\Blaster\Documents\Visual Studio 2013\Projects\Kaleidoscope v0.2 dev\Carpethia\bin\Debug\hu\Kaleidoscope v0.2.1.resources.dll
+G:\Blaster\Documents\Visual Studio 2013\Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\hu\Kaleidoscope v0.2.1.resources.dll
+G:\Blaster\Documents\Visual Studio 2013\Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Kaleidoscope v0.2.1.exe
+G:\Blaster\Documents\Visual Studio 2013\Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Kaleidoscope v0.2.1.pdb
+G:\Blaster\Documents\Visual Studio 2015\Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Kaleidoscope v0.2.1.exe
+G:\Blaster\Documents\Visual Studio 2015\Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Kaleidoscope v0.2.1.pdb
+G:\Blaster\Documents\Visual Studio 2015\Projects\Kaleidoscope v0.2 dev\Carpethia\bin\Debug\Kaleidoscope v0.2.1.exe
+G:\Blaster\Documents\Visual Studio 2015\Projects\Kaleidoscope v0.2 dev\Carpethia\bin\Debug\Kaleidoscope v0.2.1.pdb
+G:\Blaster\Documents\Visual Studio 2015\Projects\Kaleidoscope v0.2 dev\Carpethia\bin\Debug\hu\Kaleidoscope v0.2.1.resources.dll
+G:\Blaster\Documents\Visual Studio 2015\Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Kaleidoscope.vbprojResolveAssemblyReference.cache
+G:\Blaster\Documents\Visual Studio 2015\Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Carpethia.CircleShapeToolbox.resources
+G:\Blaster\Documents\Visual Studio 2015\Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Carpethia.CircleWaveToolbox.resources
+G:\Blaster\Documents\Visual Studio 2015\Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Carpethia.FlowerShapeToolbox.resources
+G:\Blaster\Documents\Visual Studio 2015\Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Carpethia.Grid1ToolBox.resources
+G:\Blaster\Documents\Visual Studio 2015\Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Carpethia.Grid3ToolBox.resources
+G:\Blaster\Documents\Visual Studio 2015\Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Carpethia.PolygonShapeToolbox.resources
+G:\Blaster\Documents\Visual Studio 2015\Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Carpethia.MainForm.resources
+G:\Blaster\Documents\Visual Studio 2015\Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Carpethia.Toolbox1.resources
+G:\Blaster\Documents\Visual Studio 2015\Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Carpethia.View.resources
+G:\Blaster\Documents\Visual Studio 2015\Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Carpethia.CircleShapeToolbox.hu.resources
+G:\Blaster\Documents\Visual Studio 2015\Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Carpethia.CircleWaveToolbox.hu.resources
+G:\Blaster\Documents\Visual Studio 2015\Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Carpethia.Grid1ToolBox.hu.resources
+G:\Blaster\Documents\Visual Studio 2015\Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Carpethia.Grid3ToolBox.hu.resources
+G:\Blaster\Documents\Visual Studio 2015\Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Carpethia.MainForm.hu.resources
+G:\Blaster\Documents\Visual Studio 2015\Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Carpethia.Toolbox1.hu.resources
+G:\Blaster\Documents\Visual Studio 2015\Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\Kaleidoscope.vbproj.GenerateResource.Cache
+G:\Blaster\Documents\Visual Studio 2015\Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Debug\hu\Kaleidoscope v0.2.1.resources.dll

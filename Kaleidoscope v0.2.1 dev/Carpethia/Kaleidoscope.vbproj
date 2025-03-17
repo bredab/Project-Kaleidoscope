@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectGuid>{97021C9D-31A0-4D3A-BEB5-C941AF75CC8B}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <OutputType>WinExe</OutputType>
+    <MyType>WindowsForms</MyType>
+    <RootNamespace>Carpethia</RootNamespace>
+    <AssemblyName>Kaleidoscope v0.2.1</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <OptionInfer>On</OptionInfer>
+    <SourceAnalysisOverrideSettingsFile>C:\Users\hu51023\AppData\Roaming\ICSharpCode/SharpDevelop4\Settings.SourceAnalysis</SourceAnalysisOverrideSettingsFile>
+    <RemoveIntegerChecks>True</RemoveIntegerChecks>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionStrict>Off</OptionStrict>
+    <OptionCompare>Binary</OptionCompare>
+    <WarningLevel>4</WarningLevel>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <ApplicationIcon>..\Kaleidoscope leírás_html_3aa49d90.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <RegisterForComInterop>False</RegisterForComInterop>
+    <GenerateSerializationAssemblies>Auto</GenerateSerializationAssemblies>
+    <BaseAddress>4194304</BaseAddress>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <Optimize>False</Optimize>
+    <DefineConstants>DEBUG=1,TRACE=1</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>None</DebugType>
+    <Optimize>True</Optimize>
+    <DefineConstants>TRACE=1</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Carpethia.MainForm</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CircleShapeToolbox.Designer.vb">
+      <DependentUpon>CircleShapeToolbox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CircleShapeToolbox.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CircleWaveToolbox.Designer.vb">
+      <DependentUpon>CircleWaveToolbox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CircleWaveToolbox.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FlowerShapeToolbox.Designer.vb">
+      <DependentUpon>FlowerShapeToolbox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FlowerShapeToolbox.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Grid1ToolBox.Designer.vb">
+      <DependentUpon>Grid1ToolBox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Grid1ToolBox.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Grid3ToolBox.Designer.vb">
+      <DependentUpon>Grid3ToolBox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Grid3ToolBox.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PolygonShapeToolbox.Designer.vb">
+      <DependentUpon>PolygonShapeToolbox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PolygonShapeToolbox.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Procedures.vb">
+      <DependentUpon>MainForm.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ToolBox1.Designer.vb">
+      <DependentUpon>ToolBox1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ToolBox1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewForm.Designer.vb">
+      <DependentUpon>ViewForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ViewForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.vb">
+      <DependentUpon>MainForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Program.vb" />
+    <Compile Include="Properties\AssemblyInfo.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CircleShapeToolbox.hu.resx">
+      <DependentUpon>CircleShapeToolbox.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CircleShapeToolbox.resx">
+      <DependentUpon>CircleShapeToolbox.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CircleWaveToolbox.hu.resx">
+      <DependentUpon>CircleWaveToolbox.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CircleWaveToolbox.resx">
+      <DependentUpon>CircleWaveToolbox.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FlowerShapeToolbox.resx">
+      <DependentUpon>FlowerShapeToolbox.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Grid1ToolBox.hu.resx">
+      <DependentUpon>Grid1ToolBox.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Grid1ToolBox.resx">
+      <DependentUpon>Grid1ToolBox.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Grid3ToolBox.hu.resx">
+      <DependentUpon>Grid3ToolBox.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Grid3ToolBox.resx">
+      <DependentUpon>Grid3ToolBox.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PolygonShapeToolbox.resx">
+      <DependentUpon>PolygonShapeToolbox.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.hu.resx">
+      <DependentUpon>MainForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ToolBox1.hu.resx">
+      <DependentUpon>ToolBox1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ToolBox1.resx">
+      <DependentUpon>ToolBox1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewForm.resx">
+      <DependentUpon>ViewForm.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.Targets" />
+</Project>
