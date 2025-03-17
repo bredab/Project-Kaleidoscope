@@ -1,0 +1,20 @@
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.1\Carpethia\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.1\Carpethia\obj\x86\Release\Carpethia.MainForm.resources
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.1\Carpethia\obj\x86\Release\Carpethia.View.resources
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.1\Carpethia\obj\x86\Release\GenerateResource.read.1.tlog
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.1\Carpethia\obj\x86\Release\GenerateResource.write.1.tlog
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.1\Carpethia\obj\x86\Release\Carpethia.MainForm.hu.resources
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.1\Carpethia\bin\Release\Kaleidoscope v0.1a.exe
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.1\Carpethia\bin\Release\hu\Kaleidoscope v0.1a.resources.dll
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.1\Carpethia\obj\x86\Release\hu\Kaleidoscope v0.1a.resources.dll
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.1\Carpethia\obj\x86\Release\Kaleidoscope v0.1a.exe
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.2 dev\Carpethia\bin\Release\Kaleidoscope v0.1b.exe
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.2 dev\Carpethia\bin\Release\hu\Kaleidoscope v0.1b.resources.dll
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Release\Carpethia.MainForm.resources
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Release\Carpethia.View.resources
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Release\Carpethia.MainForm.hu.resources
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Release\GenerateResource.read.1.tlog
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Release\GenerateResource.write.1.tlog
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Release\hu\Kaleidoscope v0.1b.resources.dll
+E:\Blaster\Documents\SharpDevelop Projects\Kaleidoscope v0.2 dev\Carpethia\obj\x86\Release\Kaleidoscope v0.1b.exe
