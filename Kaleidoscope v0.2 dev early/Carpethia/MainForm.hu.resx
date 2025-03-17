@@ -1,0 +1,771 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="btn_generate.Location" type="System.Drawing.Point, System.Drawing">
+    <value>303, 608</value>
+  </data>
+  <data name="btn_generate.Size" type="System.Drawing.Size, System.Drawing">
+    <value>110, 28</value>
+  </data>
+  <data name="btn_generate.Text" xml:space="preserve">
+    <value>Kép létrehozás</value>
+  </data>
+  <data name="waveupdown.Location" type="System.Drawing.Point, System.Drawing">
+    <value>112, 37</value>
+  </data>
+  <data name="wavebar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 6</value>
+  </data>
+  <data name="wavebar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>190, 45</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 13</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>Rács sűrűség:</value>
+  </data>
+  <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>60, 13</value>
+  </data>
+  <data name="label3.Text" xml:space="preserve">
+    <value>Pontosság:</value>
+  </data>
+  <data name="btn_clear.Location" type="System.Drawing.Point, System.Drawing">
+    <value>303, 438</value>
+  </data>
+  <data name="btn_clear.Size" type="System.Drawing.Size, System.Drawing">
+    <value>110, 28</value>
+  </data>
+  <data name="btn_clear.Text" xml:space="preserve">
+    <value>Képernyő törlés</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="cb_autclr.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="cb_autclr.Location" type="System.Drawing.Point, System.Drawing">
+    <value>212, 445</value>
+  </data>
+  <data name="cb_autclr.Size" type="System.Drawing.Size, System.Drawing">
+    <value>76, 17</value>
+  </data>
+  <data name="cb_autclr.Text" xml:space="preserve">
+    <value>Auto törlés</value>
+  </data>
+  <data name="cb_wave.Size" type="System.Drawing.Size, System.Drawing">
+    <value>112, 17</value>
+  </data>
+  <data name="cb_wave.Text" xml:space="preserve">
+    <value>Automatikus lépés</value>
+  </data>
+  <data name="panel_brush.Location" type="System.Drawing.Point, System.Drawing">
+    <value>5, 436</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="btn_quicksave.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_quicksave.Location" type="System.Drawing.Point, System.Drawing">
+    <value>303, 574</value>
+  </data>
+  <data name="btn_quicksave.Size" type="System.Drawing.Size, System.Drawing">
+    <value>110, 28</value>
+  </data>
+  <data name="btn_quicksave.Text" xml:space="preserve">
+    <value>Gyors Mentés</value>
+  </data>
+  <data name="pict_save.Location" type="System.Drawing.Point, System.Drawing">
+    <value>303, 470</value>
+  </data>
+  <data name="pict_save.Size" type="System.Drawing.Size, System.Drawing">
+    <value>110, 28</value>
+  </data>
+  <data name="pict_save.Text" xml:space="preserve">
+    <value>Kép mentése</value>
+  </data>
+  <data name="btn_random.Location" type="System.Drawing.Point, System.Drawing">
+    <value>303, 535</value>
+  </data>
+  <data name="btn_random.Size" type="System.Drawing.Size, System.Drawing">
+    <value>110, 35</value>
+  </data>
+  <data name="btn_random.Text" xml:space="preserve">
+    <value>Véletlen paraméterek</value>
+  </data>
+  <data name="rb_brush.Location" type="System.Drawing.Point, System.Drawing">
+    <value>157, 10</value>
+  </data>
+  <data name="rb_brush.Size" type="System.Drawing.Size, System.Drawing">
+    <value>160, 17</value>
+  </data>
+  <data name="rb_brush.Text" xml:space="preserve">
+    <value>Létrehozás betöltött mintából</value>
+  </data>
+  <data name="cb_autosave.Location" type="System.Drawing.Point, System.Drawing">
+    <value>212, 477</value>
+  </data>
+  <data name="cb_autosave.Size" type="System.Drawing.Size, System.Drawing">
+    <value>85, 17</value>
+  </data>
+  <data name="cb_autosave.Text" xml:space="preserve">
+    <value>Auto mentés</value>
+  </data>
+  <data name="cb_brushbase.Items" xml:space="preserve">
+    <value>Kör</value>
+  </data>
+  <data name="cb_brushbase.Items1" xml:space="preserve">
+    <value>Négyzet</value>
+  </data>
+  <data name="cb_brushbase.Location" type="System.Drawing.Point, System.Drawing">
+    <value>99, 73</value>
+  </data>
+  <data name="cb_brushbase.Size" type="System.Drawing.Size, System.Drawing">
+    <value>83, 21</value>
+  </data>
+  <data name="cb_brushbase.Text" xml:space="preserve">
+    <value>Kör</value>
+  </data>
+  <data name="label7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 76</value>
+  </data>
+  <data name="label7.Text" xml:space="preserve">
+    <value>Alap alakzat:</value>
+  </data>
+  <data name="label4.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>55, 13</value>
+  </data>
+  <data name="label4.TabIndex" type="System.Int32, mscorlib">
+    <value>90</value>
+  </data>
+  <data name="label4.Text" xml:space="preserve">
+    <value>Szín mód:</value>
+  </data>
+  <data name="cb_mode.Items" xml:space="preserve">
+    <value>Összeadás</value>
+  </data>
+  <data name="cb_mode.Items1" xml:space="preserve">
+    <value>Kivonás</value>
+  </data>
+  <data name="cb_mode.Items2" xml:space="preserve">
+    <value>Kizáró vagy</value>
+  </data>
+  <data name="cb_mode.Location" type="System.Drawing.Point, System.Drawing">
+    <value>291, 73</value>
+  </data>
+  <data name="cb_mode.MaxDropDownItems" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="cb_mode.Size" type="System.Drawing.Size, System.Drawing">
+    <value>84, 21</value>
+  </data>
+  <data name="cb_mode.Text" xml:space="preserve">
+    <value>Összeadás</value>
+  </data>
+  <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 38</value>
+  </data>
+  <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>80, 13</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>Alakzat sugara:</value>
+  </data>
+  <data name="ud_range3down.Location" type="System.Drawing.Point, System.Drawing">
+    <value>173, 375</value>
+  </data>
+  <data name="ud_range3down.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>No</value>
+  </data>
+  <data name="ud_range3down.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Right</value>
+  </data>
+  <data name="ud_range2down.Location" type="System.Drawing.Point, System.Drawing">
+    <value>96, 375</value>
+  </data>
+  <data name="ud_range2down.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>No</value>
+  </data>
+  <data name="ud_range2down.Size" type="System.Drawing.Size, System.Drawing">
+    <value>42, 20</value>
+  </data>
+  <data name="ud_range2down.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Right</value>
+  </data>
+  <data name="ud_blue.Location" type="System.Drawing.Point, System.Drawing">
+    <value>356, 375</value>
+  </data>
+  <data name="radiusupdown.Location" type="System.Drawing.Point, System.Drawing">
+    <value>138, 36</value>
+  </data>
+  <data name="ud_range3up.Location" type="System.Drawing.Point, System.Drawing">
+    <value>173, 141</value>
+  </data>
+  <data name="ud_range3up.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>No</value>
+  </data>
+  <data name="ud_range3up.Size" type="System.Drawing.Size, System.Drawing">
+    <value>42, 20</value>
+  </data>
+  <data name="ud_range3up.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Right</value>
+  </data>
+  <data name="raddec_rb.Size" type="System.Drawing.Size, System.Drawing">
+    <value>81, 17</value>
+  </data>
+  <data name="raddec_rb.Text" xml:space="preserve">
+    <value>Csökkentés</value>
+  </data>
+  <data name="label11.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 34</value>
+  </data>
+  <data name="label11.Size" type="System.Drawing.Size, System.Drawing">
+    <value>39, 13</value>
+  </data>
+  <data name="label11.Text" xml:space="preserve">
+    <value>Lépés:</value>
+  </data>
+  <data name="radinc_rb.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 17</value>
+  </data>
+  <data name="radinc_rb.Text" xml:space="preserve">
+    <value>Növelés</value>
+  </data>
+  <data name="cb_rad.Size" type="System.Drawing.Size, System.Drawing">
+    <value>112, 17</value>
+  </data>
+  <data name="cb_rad.Text" xml:space="preserve">
+    <value>Automatikus lépés</value>
+  </data>
+  <data name="radiusbar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>182, 45</value>
+  </data>
+  <data name="ud_range2up.Location" type="System.Drawing.Point, System.Drawing">
+    <value>96, 141</value>
+  </data>
+  <data name="ud_range2up.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>No</value>
+  </data>
+  <data name="ud_range2up.Size" type="System.Drawing.Size, System.Drawing">
+    <value>42, 20</value>
+  </data>
+  <data name="ud_range2up.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Right</value>
+  </data>
+  <data name="ud_range1down.Location" type="System.Drawing.Point, System.Drawing">
+    <value>21, 375</value>
+  </data>
+  <data name="ud_range1down.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>No</value>
+  </data>
+  <data name="ud_range1down.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Right</value>
+  </data>
+  <data name="ud_green.Location" type="System.Drawing.Point, System.Drawing">
+    <value>304, 375</value>
+  </data>
+  <data name="ud_range1up.Location" type="System.Drawing.Point, System.Drawing">
+    <value>21, 141</value>
+  </data>
+  <data name="ud_range1up.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>No</value>
+  </data>
+  <data name="ud_range1up.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Right</value>
+  </data>
+  <data name="bar_color.Location" type="System.Drawing.Point, System.Drawing">
+    <value>252, 143</value>
+  </data>
+  <data name="bar_color.Size" type="System.Drawing.Size, System.Drawing">
+    <value>148, 37</value>
+  </data>
+  <data name="pn_1up.Location" type="System.Drawing.Point, System.Drawing">
+    <value>21, 165</value>
+  </data>
+  <data name="pn_1down.Location" type="System.Drawing.Point, System.Drawing">
+    <value>21, 354</value>
+  </data>
+  <data name="pn_2up.Location" type="System.Drawing.Point, System.Drawing">
+    <value>96, 165</value>
+  </data>
+  <data name="ud_red.Location" type="System.Drawing.Point, System.Drawing">
+    <value>252, 375</value>
+  </data>
+  <data name="pn_2down.Location" type="System.Drawing.Point, System.Drawing">
+    <value>96, 354</value>
+  </data>
+  <data name="pn_3up.Location" type="System.Drawing.Point, System.Drawing">
+    <value>173, 165</value>
+  </data>
+  <data name="pn_3down.Location" type="System.Drawing.Point, System.Drawing">
+    <value>173, 354</value>
+  </data>
+  <data name="pn_range3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>186, 188</value>
+  </data>
+  <data name="bar_blue.Location" type="System.Drawing.Point, System.Drawing">
+    <value>356, 354</value>
+  </data>
+  <data name="tb_blue.Location" type="System.Drawing.Point, System.Drawing">
+    <value>359, 176</value>
+  </data>
+  <data name="pn_range1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>33, 188</value>
+  </data>
+  <data name="pn_range2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>109, 188</value>
+  </data>
+  <data name="tb_range1down.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="tb_range1down.Location" type="System.Drawing.Point, System.Drawing">
+    <value>35, 176</value>
+  </data>
+  <data name="tb_range1up.Location" type="System.Drawing.Point, System.Drawing">
+    <value>2, 176</value>
+  </data>
+  <data name="tb_range1up.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>No</value>
+  </data>
+  <data name="tb_range2down.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="tb_range2down.Location" type="System.Drawing.Point, System.Drawing">
+    <value>111, 176</value>
+  </data>
+  <data name="tb_range2up.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="tb_range2up.Location" type="System.Drawing.Point, System.Drawing">
+    <value>78, 176</value>
+  </data>
+  <data name="tb_range2up.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>No</value>
+  </data>
+  <data name="bar_green.Location" type="System.Drawing.Point, System.Drawing">
+    <value>304, 354</value>
+  </data>
+  <data name="tb_green.Location" type="System.Drawing.Point, System.Drawing">
+    <value>307, 176</value>
+  </data>
+  <data name="tb_range3down.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="tb_range3down.Location" type="System.Drawing.Point, System.Drawing">
+    <value>188, 176</value>
+  </data>
+  <data name="tb_range3up.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="tb_range3up.Location" type="System.Drawing.Point, System.Drawing">
+    <value>155, 176</value>
+  </data>
+  <data name="tb_range3up.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>No</value>
+  </data>
+  <data name="bar_red.Location" type="System.Drawing.Point, System.Drawing">
+    <value>252, 354</value>
+  </data>
+  <data name="tb_red.Location" type="System.Drawing.Point, System.Drawing">
+    <value>255, 176</value>
+  </data>
+  <data name="panel_sphere.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 31</value>
+  </data>
+  <data name="panel_sphere.Size" type="System.Drawing.Size, System.Drawing">
+    <value>407, 399</value>
+  </data>
+  <data name="rb_sphere.Size" type="System.Drawing.Size, System.Drawing">
+    <value>128, 17</value>
+  </data>
+  <data name="rb_sphere.Text" xml:space="preserve">
+    <value>Létrehozás alakzatból</value>
+  </data>
+  <data name="btn_load.Location" type="System.Drawing.Point, System.Drawing">
+    <value>324, 7</value>
+  </data>
+  <data name="btn_load.Size" type="System.Drawing.Size, System.Drawing">
+    <value>88, 23</value>
+  </data>
+  <data name="btn_load.Text" xml:space="preserve">
+    <value>Minta betöltés</value>
+  </data>
+  <data name="brushpanel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 313</value>
+  </data>
+  <data name="brushpanel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>419, 644</value>
+  </data>
+  <data name="cb_gridmode.Items" xml:space="preserve">
+    <value>Mód 1</value>
+  </data>
+  <data name="cb_gridmode.Items1" xml:space="preserve">
+    <value>Mód 2</value>
+  </data>
+  <data name="cb_gridmode.Items2" xml:space="preserve">
+    <value>Mód 3</value>
+  </data>
+  <data name="cb_gridmode.Items3" xml:space="preserve">
+    <value>Mód 4</value>
+  </data>
+  <data name="cb_gridmode.Items4" xml:space="preserve">
+    <value>Mód 5</value>
+  </data>
+  <data name="cb_gridmode.Items5" xml:space="preserve">
+    <value>Mód 6</value>
+  </data>
+  <data name="cb_gridmode.Items6" xml:space="preserve">
+    <value>Mód 7</value>
+  </data>
+  <data name="cb_gridmode.Items7" xml:space="preserve">
+    <value>Mód 8</value>
+  </data>
+  <data name="cb_gridmode.Items8" xml:space="preserve">
+    <value>Mód 9</value>
+  </data>
+  <data name="cb_gridmode.Items9" xml:space="preserve">
+    <value>Mód 10</value>
+  </data>
+  <data name="cb_gridmode.Location" type="System.Drawing.Point, System.Drawing">
+    <value>331, 100</value>
+  </data>
+  <data name="cb_gridmode.Size" type="System.Drawing.Size, System.Drawing">
+    <value>78, 21</value>
+  </data>
+  <data name="cb_gridmode.Text" xml:space="preserve">
+    <value>Mód 1</value>
+  </data>
+  <data name="cb_gridtype.Items" xml:space="preserve">
+    <value>Négyzet</value>
+  </data>
+  <data name="cb_gridtype.Items1" xml:space="preserve">
+    <value>Háromszög</value>
+  </data>
+  <data name="cb_gridtype.Items2" xml:space="preserve">
+    <value>Kör</value>
+  </data>
+  <data name="cb_gridtype.Items3" xml:space="preserve">
+    <value>Négyzet+Kör</value>
+  </data>
+  <data name="cb_gridtype.Items4" xml:space="preserve">
+    <value>Háromszög+Kör</value>
+  </data>
+  <data name="cb_gridtype.Location" type="System.Drawing.Point, System.Drawing">
+    <value>297, 73</value>
+  </data>
+  <data name="cb_gridtype.Size" type="System.Drawing.Size, System.Drawing">
+    <value>112, 21</value>
+  </data>
+  <data name="cb_gridtype.Text" xml:space="preserve">
+    <value>Négyzet</value>
+  </data>
+  <data name="label18.Location" type="System.Drawing.Point, System.Drawing">
+    <value>209, 76</value>
+  </data>
+  <data name="label18.Size" type="System.Drawing.Size, System.Drawing">
+    <value>62, 13</value>
+  </data>
+  <data name="label18.Text" xml:space="preserve">
+    <value>Rács típus:</value>
+  </data>
+  <data name="precisionbox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>72, 9</value>
+  </data>
+  <data name="precisionbox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>124, 22</value>
+  </data>
+  <data name="precisionbox.Text" xml:space="preserve">
+    <value>0999</value>
+  </data>
+  <data name="waveinc_rb.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 17</value>
+  </data>
+  <data name="waveinc_rb.Text" xml:space="preserve">
+    <value>Növelés</value>
+  </data>
+  <data name="wavedec_rb.Size" type="System.Drawing.Size, System.Drawing">
+    <value>81, 17</value>
+  </data>
+  <data name="wavedec_rb.Text" xml:space="preserve">
+    <value>Csökkentés</value>
+  </data>
+  <data name="wavestep_ud.Location" type="System.Drawing.Point, System.Drawing">
+    <value>47, 31</value>
+  </data>
+  <data name="wavestep_ud.Size" type="System.Drawing.Size, System.Drawing">
+    <value>60, 20</value>
+  </data>
+  <data name="label10.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 34</value>
+  </data>
+  <data name="label10.Size" type="System.Drawing.Size, System.Drawing">
+    <value>39, 13</value>
+  </data>
+  <data name="label10.Text" xml:space="preserve">
+    <value>Lépés:</value>
+  </data>
+  <data name="panel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>209, 7</value>
+  </data>
+  <data name="label14.Size" type="System.Drawing.Size, System.Drawing">
+    <value>39, 13</value>
+  </data>
+  <data name="label14.Text" xml:space="preserve">
+    <value>Lépés:</value>
+  </data>
+  <data name="precstep_ud.Location" type="System.Drawing.Point, System.Drawing">
+    <value>47, 29</value>
+  </data>
+  <data name="precdec_rb.Size" type="System.Drawing.Size, System.Drawing">
+    <value>81, 17</value>
+  </data>
+  <data name="precdec_rb.Text" xml:space="preserve">
+    <value>Csökkentés</value>
+  </data>
+  <data name="precinc_rb.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 17</value>
+  </data>
+  <data name="precinc_rb.Text" xml:space="preserve">
+    <value>Növelés</value>
+  </data>
+  <data name="cb_prec.Size" type="System.Drawing.Size, System.Drawing">
+    <value>112, 17</value>
+  </data>
+  <data name="cb_prec.Text" xml:space="preserve">
+    <value>Automatikus lépés</value>
+  </data>
+  <data name="precisionpanel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 163</value>
+  </data>
+  <data name="label6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>209, 131</value>
+  </data>
+  <data name="label6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>81, 13</value>
+  </data>
+  <data name="label6.Text" xml:space="preserve">
+    <value>Rács felbontás:</value>
+  </data>
+  <data name="ud_resolution.Location" type="System.Drawing.Point, System.Drawing">
+    <value>331, 129</value>
+  </data>
+  <data name="ud_resolution.Size" type="System.Drawing.Size, System.Drawing">
+    <value>78, 20</value>
+  </data>
+  <data name="label5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>209, 105</value>
+  </data>
+  <data name="label5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>58, 13</value>
+  </data>
+  <data name="label5.Text" xml:space="preserve">
+    <value>Rács mód:</value>
+  </data>
+  <data name="label19.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label19.Location" type="System.Drawing.Point, System.Drawing">
+    <value>14, 103</value>
+  </data>
+  <data name="label19.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 13</value>
+  </data>
+  <data name="label19.Text" xml:space="preserve">
+    <value>Keret méret:</value>
+  </data>
+  <data name="frameupdown.Location" type="System.Drawing.Point, System.Drawing">
+    <value>112, 103</value>
+  </data>
+  <data name="frameupdown.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>No</value>
+  </data>
+  <data name="frameupdown.Size" type="System.Drawing.Size, System.Drawing">
+    <value>71, 20</value>
+  </data>
+  <data name="framebar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>8, 69</value>
+  </data>
+  <data name="wavepanel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>419, 155</value>
+  </data>
+  <data name="label17.Location" type="System.Drawing.Point, System.Drawing">
+    <value>161, 42</value>
+  </data>
+  <data name="label17.Size" type="System.Drawing.Size, System.Drawing">
+    <value>25, 13</value>
+  </data>
+  <data name="label17.Text" xml:space="preserve">
+    <value>Fok</value>
+  </data>
+  <data name="label15.Location" type="System.Drawing.Point, System.Drawing">
+    <value>9, 40</value>
+  </data>
+  <data name="label15.Size" type="System.Drawing.Size, System.Drawing">
+    <value>51, 13</value>
+  </data>
+  <data name="label15.Text" xml:space="preserve">
+    <value>Forgatás:</value>
+  </data>
+  <data name="rot_ud.Location" type="System.Drawing.Point, System.Drawing">
+    <value>103, 38</value>
+  </data>
+  <data name="rotbar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>8, 2</value>
+  </data>
+  <data name="rotbar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>188, 45</value>
+  </data>
+  <data name="rotdec_rb.Size" type="System.Drawing.Size, System.Drawing">
+    <value>81, 17</value>
+  </data>
+  <data name="rotdec_rb.Text" xml:space="preserve">
+    <value>Csökkentés</value>
+  </data>
+  <data name="label16.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 34</value>
+  </data>
+  <data name="label16.Size" type="System.Drawing.Size, System.Drawing">
+    <value>39, 13</value>
+  </data>
+  <data name="label16.Text" xml:space="preserve">
+    <value>Lépés:</value>
+  </data>
+  <data name="rotstep_ud.Location" type="System.Drawing.Point, System.Drawing">
+    <value>47, 31</value>
+  </data>
+  <data name="rotinc_rb.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 17</value>
+  </data>
+  <data name="rotinc_rb.Text" xml:space="preserve">
+    <value>Növelés</value>
+  </data>
+  <data name="cb_rot.Size" type="System.Drawing.Size, System.Drawing">
+    <value>112, 17</value>
+  </data>
+  <data name="cb_rot.Text" xml:space="preserve">
+    <value>Automatikus lépés</value>
+  </data>
+  <data name="rotationpanel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 238</value>
+  </data>
+</root>
